@@ -18,7 +18,7 @@
   </style>
 
   <script>
-  this.imageURL = "https://placeholdit.co//i/100x100";
-  this.imageCaption = "";
+  this.imageURL = opts.imageURL;
+  this.imageCaption = opts.imageCaption;
   </script>
 </photo-tag>
